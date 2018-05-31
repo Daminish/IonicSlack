@@ -1,0 +1,8 @@
+{
+  "name": "ionicslack",
+  "app_id": "4f1d4a4c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
